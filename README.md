@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET Core-5C2D91.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 </div>
 <br/>
