@@ -1,4 +1,4 @@
-## Hey <img src="./gifs/Hi.gif" width="25" height="20"/>, I'm [Sai Ramesh Pérez Ventura!](https://github.com/Silentsnake27/)
+## Hey I'm [Sai Ramesh Pérez Ventura!](https://github.com/Silentsnake27/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ramesh-p-3943681ab/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://silentsnake27-portfolioweb-5sdig.ondigitalocean.app/)
