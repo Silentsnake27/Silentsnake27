@@ -21,11 +21,9 @@ Joined Github **4** years ago.
 
 Like My Work? -->
 
-<!-- <a href="https://www.buymeacoffee.com/Silentsnake27" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
-
 [![](https://gitwar.herokuapp.com/badge?username=Silentsnake27&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://pa1.narvii.com/6147/accd86dca2fc1923c38444cfe2c5012c914d1329_hq.gif" />
+<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" />
+<!--<img align="right" height="250" width="375" alt="" src="https://pa1.narvii.com/6147/accd86dca2fc1923c38444cfe2c5012c914d1329_hq.gif" />-->
 
 ### Talking about Personal Stuffs:
 
@@ -38,7 +36,7 @@ Like My Work? -->
 - 📝 &nbsp; Checkout my [Resume](https://github.com/silentsnake27/silentsnake27-3/blob/master/resume.pdf).
 
 
-<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" />
+<!--<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" />-->
 
 ### My Absolute Favorites:
 
