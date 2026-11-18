@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ramesh-p-3943681ab/)
 [![Email](https://img.shields.io/badge/ramiperez71@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramiperez71@gmail.com)
 
+<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" />
+
 I'm a full stack developer with 7+ years of experience building web and mobile products for fintech, banking and payments. I work mostly with .NET on the backend and Vue, React or Angular on the frontend.
 
 - 🧱 **Backend:** .NET 8 / C#, ASP.NET Core Web API, Clean Architecture, CQRS (MediatR), Entity Framework Core, Node.js / NestJS, REST and GraphQL
