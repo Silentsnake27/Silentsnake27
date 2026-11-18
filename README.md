@@ -15,8 +15,6 @@ Microservices, VueJS,React, React native, Ionic and others. During my career I h
 able to learn and refine knowledge that has helped me build a specific
 profile.
 
-Joined Github **4** years ago.
-
 <!-- Since then I pushed **2652**+ commits, opened **229**+ issues, submitted **291**+ pull requests, created **20**+ gists and contributed to **24**+ public repositories.
 
 Like My Work? -->
