@@ -2,7 +2,8 @@
 
 **Senior Full Stack Developer** · .NET · Vue · React · Node.js · Santo Domingo, Dominican Republic 🇩🇴
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ramesh-p-3943681ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-perez-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://silentsnake27.vercel.app)
 [![Email](https://img.shields.io/badge/ramiperez71@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramiperez71@gmail.com)
 
 <img align="right" height="250" width="375" alt="" src="coding.gif" />
